@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4351e523db531300a96d58b3ca961983</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_163438_loaner_request">
+    <x_163438_loaner_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Backpack - not shoulder bag.</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <item_type>laptop</item_type>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>LNR0001004</number>
+        <opened_at>2018-07-20 15:55:30</opened_at>
+        <opened_by display_value="Mara Rineheart">71826bf03710200044e0bfc8bcbe5d20</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <short_description/>
+        <sla_due/>
+        <state>-5</state>
+        <sys_class_name>x_163438_loaner_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:55:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4351e523db531300a96d58b3ca961983</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-07-20 16:21:02</sys_updated_on>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2018-07-26 00:00:11</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start>2018-07-23 15:00:11</work_start>
+    </x_163438_loaner_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-07-20 16:46:29</sys_created_on>
+        <sys_id>ff8da5abdb531300a96d58b3ca96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR0001004</sys_name>
+        <sys_package display_value="Loaner Request" source="x_163438_loaner">237595e3db131300a96d58b3ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">237595e3db131300a96d58b3ca9619b4</sys_scope>
+        <sys_update_name>sys_metadata_link_ff8da5abdb531300a96d58b3ca96196a</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-07-20 16:46:29</sys_updated_on>
+        <tablename>x_163438_loaner_request</tablename>
+    </sys_metadata_link>
+</record_update>

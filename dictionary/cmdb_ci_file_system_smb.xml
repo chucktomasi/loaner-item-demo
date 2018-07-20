@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="cmdb_ci_file_system" label="SMB File system" max_length="40" name="cmdb_ci_file_system_smb" type="collection">
+        <element label="Loaner" max_length="40" name="x_163438_loaner_loaner" type="boolean"/>
+    </element>
+</database>

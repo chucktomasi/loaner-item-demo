@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Request" max_length="40" name="x_163438_loaner_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="laptop" label="Item type" max_length="40" name="item_type" type="string">
+            <choice>
+                <element label="Laptop" sequence="0" value="laptop"/>
+                <element label="Mobile phone" sequence="1" value="mobile phone"/>
+                <element label="Projector" sequence="2" value="projector"/>
+            </choice>
+        </element>
+    </element>
+</database>

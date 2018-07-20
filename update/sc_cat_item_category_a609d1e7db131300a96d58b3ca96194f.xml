@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request a loaner item">5a09d9a7db131300a96d58b3ca9619a5</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:16:49</sys_created_on>
+        <sys_id>a609d1e7db131300a96d58b3ca96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Request a loaner item</sys_name>
+        <sys_package display_value="Loaner Request" source="x_163438_loaner">237595e3db131300a96d58b3ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">237595e3db131300a96d58b3ca9619b4</sys_scope>
+        <sys_update_name>sc_cat_item_category_a609d1e7db131300a96d58b3ca96194f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:16:49</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

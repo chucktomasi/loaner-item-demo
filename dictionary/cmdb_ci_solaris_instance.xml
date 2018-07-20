@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_vm_instance" label="Solaris Virtual Machine Instance" max_length="40" name="cmdb_ci_solaris_instance" type="collection">
+        <element label="Loaner" max_length="40" name="x_163438_loaner_loaner" type="boolean"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="cmdb_ci_cluster_node" label="Windows Cluster Node" max_length="40" name="cmdb_ci_win_cluster_node" sizeclass="14" type="collection">
+        <element label="Loaner" max_length="40" name="x_163438_loaner_loaner" type="boolean"/>
+    </element>
+</database>

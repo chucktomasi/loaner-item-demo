@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_server_hardware" label="Network Appliance Hardware" max_length="40" name="cmdb_ci_net_app_server" type="collection">
+        <element label="Loaner" max_length="40" name="x_163438_loaner_loaner" type="boolean"/>
+    </element>
+</database>

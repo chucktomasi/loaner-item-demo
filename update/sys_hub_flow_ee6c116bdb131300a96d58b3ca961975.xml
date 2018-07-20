@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description/>
+        <label_cache>[{"name":"9831378d-00f1-4a69-9083-5c019c3cf8e4.approval_state","label":"1➛Approval State","type":"choice","base_type":"choice"},{"name":"Created or Updated_1.current.opened_by.manager","label":"Trigger➛Request Record➛Opened by➛Manager","reference":"sys_user","reference_display":"Manager","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"Created or Updated_1.current","label":"Trigger➛Request Record","reference":"x_163438_loaner_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.opened_by","label":"Trigger➛Request Record➛Opened by","reference":"sys_user","reference_display":"Opened by","type":"reference","base_type":"reference","parent_table_name":"x_163438_loaner_request","column_name":"opened_by"}]</label_cache>
+        <latest_snapshot/>
+        <name>Laptop Approval</name>
+        <remote_trigger_id/>
+        <show_draft_actions>false</show_draft_actions>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:31:34</sys_created_on>
+        <sys_id>ee6c116bdb131300a96d58b3ca961975</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Laptop Approval</sys_name>
+        <sys_package display_value="Loaner Request" source="x_163438_loaner">237595e3db131300a96d58b3ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">237595e3db131300a96d58b3ca9619b4</sys_scope>
+        <sys_update_name>sys_hub_flow_ee6c116bdb131300a96d58b3ca961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:23</sys_updated_on>
+    </sys_hub_flow>
+</record_update>

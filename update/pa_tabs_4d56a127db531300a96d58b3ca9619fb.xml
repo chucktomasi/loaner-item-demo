@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">4d56a127db531300a96d58b3ca9619f9</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">0156a127db531300a96d58b3ca9619f9</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-07-20 16:14:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d56a127db531300a96d58b3ca9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_163438_loaner">237595e3db131300a96d58b3ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">237595e3db131300a96d58b3ca9619b4</sys_scope>
+        <sys_update_name>pa_tabs_4d56a127db531300a96d58b3ca9619fb</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-07-20 16:14:53</sys_updated_on>
+    </pa_tabs>
+</record_update>

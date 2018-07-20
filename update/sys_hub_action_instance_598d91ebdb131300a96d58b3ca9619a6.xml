@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Laptop Approval">ee6c116bdb131300a96d58b3ca961975</flow>
+        <order>3.2</order>
+        <parent_ui_id>74ff3a4f-6a9e-4376-bd16-51e9f38bdc9a</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>598d91ebdb131300a96d58b3ca9619a6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_163438_loaner">237595e3db131300a96d58b3ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">237595e3db131300a96d58b3ca9619b4</sys_scope>
+        <sys_update_name>sys_hub_action_instance_598d91ebdb131300a96d58b3ca9619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <ui_id>042cc1f7-2293-4169-9897-2289a96eda92</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=598d91ebdb131300a96d58b3ca9619a6"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>598d91ebdb131300a96d58b3ca9619a6</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>118d91ebdb131300a96d58b3ca9619c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <value>Your laptop request was rejected</value>
+        <variable display_value="">0a62c1160b100300d97d8bf637673a05</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>598d91ebdb131300a96d58b3ca9619a6</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>1d8d91ebdb131300a96d58b3ca9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <value>Your laptop request was rejected</value>
+        <variable display_value="">b21241160b100300d97d8bf637673a4a</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>598d91ebdb131300a96d58b3ca9619a6</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>598d91ebdb131300a96d58b3ca9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <value>&lt;p&gt;Sorry, your laptop request was rejected by your manager.&lt;/p&gt;</value>
+        <variable display_value="">c71241160b100300d97d8bf637673a55</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>598d91ebdb131300a96d58b3ca9619a6</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>5d8d91ebdb131300a96d58b3ca9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <value>&lt;p&gt;Sorry, your laptop request was rejected by your manager.&lt;/p&gt;</value>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=598d91ebdb131300a96d58b3ca9619a6"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>598d91ebdb131300a96d58b3ca9619a6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>d58d91ebdb131300a96d58b3ca9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>598d91ebdb131300a96d58b3ca9619a6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>d98d91ebdb131300a96d58b3ca9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>598d91ebdb131300a96d58b3ca9619a6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>158d91ebdb131300a96d58b3ca9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>598d91ebdb131300a96d58b3ca9619a6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>198d91ebdb131300a96d58b3ca9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>598d91ebdb131300a96d58b3ca9619a6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>518d91ebdb131300a96d58b3ca9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>{{Created or Updated_1.current.opened_by}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>598d91ebdb131300a96d58b3ca9619a6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 15:36:24</sys_created_on>
+        <sys_id>558d91ebdb131300a96d58b3ca9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 15:36:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{Created or Updated_1.current.opened_by}}</value>
+    </sys_element_mapping>
+</record_update>
